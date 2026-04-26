@@ -29,7 +29,7 @@ const PROFILE = {
 
   `,
   socials: [
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/justus-eaglesmith-mba-msds-0ab540167/" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/justuseaglesmith" },
     { label: "GitHub", href: "https://github.com/JustusEaglesmith20?tab=repositories" },
     { label: "Email", href: "mailto:justuseaglesmith@gmail.com" }
   ],
